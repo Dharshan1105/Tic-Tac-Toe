@@ -5,8 +5,7 @@ This is a fun and challenging Tic Tac Toe game implemented with HTML, CSS, and J
 **Features:**
 
 * Play Tic Tac Toe on multiple grid sizes: 3x3, 4x4, or 5x5.
-* Compete against a computer opponent.
-* Visually appealing and responsive game board.
+* Compete against another opponent.
 * Keeps track of the current player and winner.
 * Announces the winner or a draw clearly.
 
